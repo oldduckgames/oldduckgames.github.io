@@ -755,3 +755,7 @@ triplelift.com, 12908, RESELLER, 6c33edb13117fd86
 loopme.com, 11561, RESELLER, 6c8d5f95897a5a3b
 e-planning.net, af5a107262468954, RESELLER, c1ba615865ed87b2
 improvedigital.com, 1408, RESELLER
+smartyads.com, 300023, RESELLER, fd2bde0ff2e62c5d
+adform.com, 2795, RESELLER
+loopme.com, 11426, RESELLER, 6c8d5f95897a5a3b
+consumable.com, 2001482, RESELLER, aefcd3d2f45b5070
