@@ -516,6 +516,25 @@ xandr.com, 8804, RESELLER, f5ab79cb980f11d1
 xandr.com, 7353, RESELLER, f5ab79cb980f11d1
 xandr.com, 13167, RESELLER, f5ab79cb980f11d1
 xandr.com, 13297, RESELLER, f5ab79cb980f11d1
+betweendigital.com, 45827, RESELLER
+contextweb.com, 159668, RESELLER, 5d62403b186f2ace
+contextweb.com, 562827, RESELLER, 89ff185a4c4e857c
+improvedigital.com, 2414, RESELLER
+inmobi.com, 9e311c7a68e94888aac7fbb4272381e2, RESELLER
+kidoz.net, 14260, RESELLER, a109366414b7335e
+lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
+mars.media, 1010442, RESELLER
+playdigo.com, 1993, RESELLER
+pubmatic.com, 163476, RESELLER, 5d62403b186f2ace
+pubmatic.com, 164532, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 25872, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26386, RESELLER, 0bfd66d529a55807
+sharethrough.com, f0oqso2j, RESELLER, d53b998a7bd4ecd2
+smaato.com, 1100056144, RESELLER, 07bcf65f187117b4
+video.unrulymedia.com, 392157850, RESELLER
+xandr.com, 15840, RESELLER
+zmaticoo.com, 5135195, RESELLER
 
 # Inmobi
 inmobi.com, 9ec15d0077144b1491d69de535750103, DIRECT, 83e75a7ae333ca9d
@@ -593,6 +612,10 @@ rubiconproject.com, 26192, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 322585001, RESELLER
 adiiix.com, 3de5db9, RESELLER
 fromthetop.io, 65529, RESELLER
+eliteappgrade.com, 514554, RESELLER
+lijit.com, 502742, RESELLER, fafdf38b16bf6b2b
+smartadserver.com, 3232, RESELLER, 060d053dcf45cbf3
+contextweb.com, 558638, RESELLER, 89ff185a4c4e857c
 
 # additional on 2024.03.06
 eskimi.com,2020000030,RESELLER
