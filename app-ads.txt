@@ -554,6 +554,8 @@ smaato.com, 1100056144, RESELLER, 07bcf65f187117b4
 video.unrulymedia.com, 392157850, RESELLER
 xandr.com, 15840, RESELLER
 zmaticoo.com, 5135195, RESELLER
+lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
+playdigo.com, 1965, RESELLER, 92011346d63d3c30
 
 # Inmobi
 inmobi.com, 9ec15d0077144b1491d69de535750103, DIRECT, 83e75a7ae333ca9d
