@@ -877,6 +877,9 @@ adform.com, 2795, RESELLER
 loopme.com, 11426, RESELLER, 6c8d5f95897a5a3b
 consumable.com, 2001482, RESELLER, aefcd3d2f45b5070
 
+# Facebook
+facebook.com, 793474412773825, RESELLER, c3e20eee3f780d68
+
 # Mintegral
 mintegral.com, 38534, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
