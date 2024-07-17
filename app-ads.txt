@@ -589,6 +589,7 @@ video.unrulymedia.com, 6111915185540403805, RESELLER
 videoheroes.tv, 212428, RESELLER, 064bc410192443d8
 videoheroes.tv, 212550, RESELLER, 064bc410192443d8
 webeyemob.com, 80029, RESELLER
+zmaticoo.com, 5135704, RESELLER
 
 # Inmobi
 inmobi.com, 9ec15d0077144b1491d69de535750103, DIRECT, 83e75a7ae333ca9d
