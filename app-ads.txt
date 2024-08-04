@@ -878,11 +878,12 @@ loopme.com, 11426, RESELLER, 6c8d5f95897a5a3b
 consumable.com, 2001482, RESELLER, aefcd3d2f45b5070
 
 # Facebook
-facebook.com, 326394868127034, DIRECT, c3e20eee3f780d68
 facebook.com, 326394868127034, RESELLER, c3e20eee3f780d68
-facebook.com, 793474412773825, DIRECT, c3e20eee3f780d68
 facebook.com, 793474412773825, RESELLER, c3e20eee3f780d68
+facebook.com, 994816568715180, RESELLER, c3e20eee3f780d68
 
+facebook.com, 326394868127034, DIRECT, c3e20eee3f780d68
+facebook.com, 793474412773825, DIRECT, c3e20eee3f780d68
 
 # Mintegral
 mintegral.com, 38534, DIRECT, 0aeed750c80d6423
