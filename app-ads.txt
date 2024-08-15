@@ -590,6 +590,8 @@ videoheroes.tv, 212428, RESELLER, 064bc410192443d8
 videoheroes.tv, 212550, RESELLER, 064bc410192443d8
 webeyemob.com, 80029, RESELLER
 zmaticoo.com, 5135704, RESELLER
+mars.media, 1010442, RESELLER, 8624339f102fb076
+pubwise.io, 22376824, RESELLER, c327c91a93a7cdd3
 
 # Inmobi
 inmobi.com, 9ec15d0077144b1491d69de535750103, DIRECT, 83e75a7ae333ca9d
