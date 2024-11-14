@@ -598,6 +598,10 @@ pubmatic.com, 165116, RESELLER, 5d62403b186f2ace
 lijit.com, 511365, RESELLER, fafdf38b16bf6b2b
 improvedigital.com, 2464, RESELLER
 pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
+connekt.ai, 1732945743, RESELLER
+xandr.com, 15769, RESELLER
+contextweb.com, 563265, RESELLER, 89ff185a4c4e857c
+lijit.com, 491737, RESELLER, fafdf38b16bf6b2b
 
 # Inmobi
 inmobi.com, 9ec15d0077144b1491d69de535750103, DIRECT, 83e75a7ae333ca9d
