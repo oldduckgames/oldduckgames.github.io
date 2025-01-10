@@ -602,6 +602,24 @@ connekt.ai, 1732945743, RESELLER
 xandr.com, 15769, RESELLER
 contextweb.com, 563265, RESELLER, 89ff185a4c4e857c
 lijit.com, 491737, RESELLER, fafdf38b16bf6b2b
+lijit.com, 417620, RESELLER, fafdf38b16bf6b2b
+thunder-monetize.com, 5257091605, RESELLER
+bid-matrix.com, f2c71a45ea149366, RESELLER
+video.unrulymedia.com, 498216989, RESELLER
+video.unrulymedia.com, 755432070, RESELLER
+video.unrulymedia.com, 2743945877, RESELLER
+rhebus.works, 5000863388, RESELLER
+admanmedia.com, 2242, RESELLER
+vidazoo.com, 66e04f5e4d7fd89d878d29d2, RESELLER, b6ada874b4d7d0b2
+appnexus.com, 15349, RESELLER, f5ab79cb980f11d1
+tradplusad.com, b3fca24bd11c1242, RESELLER
+video.unrulymedia.com, 585054906, RESELLER
+onetag.com, 8c90176af2e65c8, RESELLER
+eskimi.com, 2020000545, RESELLER
+taurusx.com, 80029, RESELLER
+inmobi.com, 0c8e054083954c68a45044396a1c3df8, RESELLER, 83e75a7ae333ca9d
+thunder-monetize.com, 8221217003, RESELLER
+prado.co, 14260, RESELLER
 
 # Inmobi
 inmobi.com, 9ec15d0077144b1491d69de535750103, DIRECT, 83e75a7ae333ca9d
