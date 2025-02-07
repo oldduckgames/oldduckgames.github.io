@@ -1803,3 +1803,21 @@ krushmedia.com, AJxF6R192a9M6CaTvK, RESELLER
 mgid.com, 885240, RESELLER, d4c29acad76ce94f
 rubiconproject.com, 26552, RESELLER
 admixer.co.kr, 1289, RESELLER
+pubmatic.com, 159382, RESELLER
+appnexus.comappnexus.com, 6849, RESELLER
+zmaticoo.com, 114490, DIRECT
+contextweb.com, 563521, RESELLER, 89ff185a4c4e857c
+rubiconproject.com, 15044, RESELLER, 0bfd66d529a55807
+admanmedia.com, 2248, RESELLER
+improvedigital.com, 2508, RESELLER
+improvedigital.com, 2509, RESELLER
+pubnative.net, 1010067, RESELLER, d641df8625486a7b
+pubnative.net, 1010068, RESELLER, d641df8625486a7b
+pubnative.net, 1010069, RESELLER, d641df8625486a7b
+pubnative.net, 1010070, RESELLER, d641df8625486a7b
+pubnative.net, 1010071, RESELLER, d641df8625486a7b
+pubnative.net, 1010072, RESELLER, d641df8625486a7b
+pubnative.net, 1010073, RESELLER, d641df8625486a7b
+video.unrulymedia.com, 453209019, RESELLER
+connekt.ai, 2852512, RESELLER
+adyoulike.com, e48120b055ac0abcc41c0093bf3fe02e, RESELLER
