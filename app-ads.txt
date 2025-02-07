@@ -666,6 +666,7 @@ taurusx.com, 80029, RESELLER
 inmobi.com, 0c8e054083954c68a45044396a1c3df8, RESELLER, 83e75a7ae333ca9d
 thunder-monetize.com, 8221217003, RESELLER
 prado.co, 14260, RESELLER
+openx.com, 541017750, RESELLER, 6a698e2ec38604c6
 
 # Inmobi
 inmobi.com, 9ec15d0077144b1491d69de535750103, DIRECT, 83e75a7ae333ca9d
