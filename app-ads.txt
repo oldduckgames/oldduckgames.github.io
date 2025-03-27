@@ -1943,3 +1943,9 @@ eskimi.com, 2020000810, RESELLER
 openx.com, 561365249, RESELLER, 6a698e2ec38604c6
 Media.net, 8CU5L226O, RESELLER
 smaato.com, 1100057546, DIRECT, 07bcf65f187117b4
+adform.com, 1762, RESELLER
+smartadserver.com, 3627, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 4762, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 5026, RESELLER, d53b998a7bd4ecd2
+appnexus.com, 17044, RESELLER
+xandr.com, 17044, RESELLER
