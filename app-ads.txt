@@ -718,6 +718,7 @@ video.unrulymedia.com, 848837292, RESELLER
 improvedigital.com, 2525, RESELLER
 betweendigital.com, 45329, RESELLER
 lijit.com, 546566, RESELLER, fafdf38b16bf6b2b
+improvedigital.com, 1664, RESELLER
 
 # Inmobi
 inmobi.com, 9ec15d0077144b1491d69de535750103, DIRECT, 83e75a7ae333ca9d
@@ -1949,3 +1950,17 @@ sharethrough.com, 4762, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5026, RESELLER, d53b998a7bd4ecd2
 appnexus.com, 17044, RESELLER
 xandr.com, 17044, RESELLER
+contextweb.com, 562794, RESELLER, 89ff185a4c4e857c
+singularads.com, 548745, RESELLER
+contextweb.com, 562911, RESELLER, 89ff185a4c4e857c
+contextweb.com, 563462, RESELLER, 89ff185a4c4e857c
+media.net, 8CU5L226O, RESELLER
+adyoulike.com, 76375ac0f5abb5a550c87326b9063b59, RESELLER
+adyoulike.com, 5e09d5fe0d58941e6adc167159cc9218, RESELLER
+sonobi.com, cddceeb06e, RESELLER, d1a215d9eb5aee9e
+media.net, 8CU76268D, RESELLER
+yieldmo.com, 3761877318507634863, RESELLER, 6a92c77cfc3d2258
+smaato.com, 1100058954, RESELLER, 07bcf65f187117b4
+openx.com, 562174952, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 27130, RESELLER, 0bfd66d529a55807
+pubeasy.io, 110039, RESELLER
