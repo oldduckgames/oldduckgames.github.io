@@ -787,6 +787,11 @@ smartadserver.com, 4998, RESELLER
 smartadserver.com, 4839, RESELLER, 060d053dcf45cbf3
 lacunads.com, LCb555b3bc8667a09a, DIRECT
 admanmedia.com, 2037, RESELLER
+ushareit.com, LCb555b3bc8667a09a, RESELLER
+thebrave.io, 1234764, RESELLER, c25b2154543746ac
+themediagrid.com, FALINO, RESELLER, 35d5010d7789b49d
+lacunads.com, LCb555b3bc8667a09a, RESELLER
+app-stock.com, 256917, RESELLER
 
 # Inmobi
 inmobi.com, 9ec15d0077144b1491d69de535750103, DIRECT, 83e75a7ae333ca9d
