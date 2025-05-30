@@ -2106,3 +2106,6 @@ bidmachine.io, 1064, RESELLER
 video.unrulymedia.com, 475093422, RESELLER
 triplelift.com, 13907, RESELLER, 6c33edb13117fd86
 sharethrough.com, veuioj8F, RESELLER, d53b998a7bd4ecd2
+opera.com, pub12998959884416, RESELLER, 55a0c5fd61378de3
+adsinteractive.com, 39993, RESELLER
+adingo.jp, 32534, RESELLER
