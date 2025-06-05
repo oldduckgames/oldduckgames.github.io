@@ -851,6 +851,7 @@ app-stock.com, 256917, RESELLER
 taurusx.com, 80635, RESELLER
 lijit.com, 556191, RESELLER, fafdf38b16bf6b2b
 advertising.com, 82632, RESELLER
+google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
 
 # Inmobi
 inmobi.com, 9ec15d0077144b1491d69de535750103, DIRECT, 83e75a7ae333ca9d
