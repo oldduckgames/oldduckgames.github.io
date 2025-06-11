@@ -2088,3 +2088,4 @@ sharethrough.com, veuioj8F, RESELLER, d53b998a7bd4ecd2
 opera.com, pub12998959884416, RESELLER, 55a0c5fd61378de3
 adsinteractive.com, 39993, RESELLER
 adingo.jp, 32534, RESELLER
+rubiconproject.com, 27386, RESELLER, 0bfd66d529a55807
