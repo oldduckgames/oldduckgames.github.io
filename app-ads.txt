@@ -799,6 +799,7 @@ e-planning.net, 79686787743ddfc5, RESELLER, c1ba615865ed87b2
 eskimi.com, 2020000545, RESELLER
 eskimi.com, 2020000663, RESELLER
 bidmachine.io, 113, RESELLER
+improvedigital.com, 2609, RESELLER
 
 # Inmobi
 inmobi.com, 9ec15d0077144b1491d69de535750103, DIRECT, 83e75a7ae333ca9d
@@ -2043,3 +2044,5 @@ criteo.com, B-074375, RESELLER, 9fac4a4a87c2a44f
 pubmatic.com, 164532, RESELLER, 5d62403b186f2ace
 pubnative.net, 1009046, RESELLER, d641df8625486a7b
 bidmachine.io, 98, RESELLER
+opera.com, pub9598692093632, RESELLER, 55a0c5fd61378de3
+onetag.com, 8dd8de7f341d57e, RESELLER
