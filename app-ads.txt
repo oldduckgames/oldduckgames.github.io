@@ -2077,3 +2077,13 @@ pubnative.net, 1009046, RESELLER, d641df8625486a7b
 bidmachine.io, 98, RESELLER
 opera.com, pub9598692093632, RESELLER, 55a0c5fd61378de3
 onetag.com, 8dd8de7f341d57e, RESELLER
+vidoomy.com, 7646534, RESELLER
+smaato.com, 1100057628, RESELLER, 07bcf65f187117b4
+onetag.com, 82e44d118b79600, RESELLER
+admatic.com.tr, adm-pub-3033566192, RESELLER, uufps1dh5stc6euk
+smaato.com, 1100057546, RESELLER, 07bcf65f187117b4
+smartadserver.com, 4543, RESELLER, 060d053dcf45cbf3
+admanmedia.com, 2045, RESELLER
+adelement.com, 36004, RESELLER
+admixer.net, e58950b9-933f-4f5b-b49c-7ca927540db1, RESELLER
+taurusx.com, 80614, RESELLER
