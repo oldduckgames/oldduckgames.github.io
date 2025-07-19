@@ -831,6 +831,7 @@ eskimi.com, 2020000545, RESELLER
 eskimi.com, 2020000663, RESELLER
 bidmachine.io, 113, RESELLER
 improvedigital.com, 2609, RESELLER
+loopme.com, 15629, RESELLER, 6c8d5f95897a5a3b
 
 # Inmobi
 inmobi.com, 9ec15d0077144b1491d69de535750103, DIRECT, 83e75a7ae333ca9d
@@ -2087,3 +2088,6 @@ admanmedia.com, 2045, RESELLER
 adelement.com, 36004, RESELLER
 admixer.net, e58950b9-933f-4f5b-b49c-7ca927540db1, RESELLER
 taurusx.com, 80614, RESELLER
+33across.com, 001Pg00000LoMyvIAF, RESELLER, bbea06d9c4d2853c
+admanmedia.com, 2072, RESELLER
+visiblemeasures.com, 1004, RESELLER
