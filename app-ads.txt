@@ -837,6 +837,18 @@ xandr.com, 17779, RESELLER
 video.unrulymedia.com, 657436911, RESELLER
 indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
 appnexus.com, 17779, RESELLER
+indexexchange.com, 192505, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 214429, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 158903, RESELLER, 5d62403b186f2ace
+loopme.com, 15601, RESELLER, 6c8d5f95897a5a3b
+media.net, 8CU355VS4, RESELLER
+video.unrulymedia.com, 3890682751, RESELLER
+smartadserver.com, 4024, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 4024, RESELLER, d53b998a7bd4ecd2
+app-stock.com, 562114, RESELLER, ed8c126ea5971415
+anzu.io, 691e95644e633a6eee2567ee, RESELLER, 1c1b7acf4992136c
+openx.com, 543888036, RESELLER, 6a698e2ec38604c6
+loopme.com, 11524, RESELLER, 6c8d5f95897a5a3b
 
 # Inmobi
 inmobi.com, 9ec15d0077144b1491d69de535750103, DIRECT, 83e75a7ae333ca9d
