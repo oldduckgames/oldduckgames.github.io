@@ -2159,3 +2159,12 @@ criteo.com, TERO1F, RESELLER, 35d5010d7789b49d
 criteo.com, TVX1JK, RESELLER, 35d5010d7789b49d
 themediagrid.com, TERO1F, RESELLER, 35d5010d7789b49d
 themediagrid.com, TVX1JK, RESELLER, 35d5010d7789b49d
+cgnl.io, 7000, RESELLER
+cignal.io, 7000, RESELLER
+carambo.la, 914730833, RESELLER
+openx.com, 537140323, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 159626, RESELLER, 5d62403b186f2ace
+pubmatic.com, 166836, RESELLER, 5d62403b186f2ace
+algogear.com, 7bce3c82e6da7741, RESELLER
+algogear.com, 406353d0e9db6c5d, RESELLER
+algogear.com, a6bc46b1ba706474, RESELLER
