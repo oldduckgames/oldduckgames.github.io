@@ -964,6 +964,16 @@ video.unrulymedia.com, 201313863, RESELLER
 vidoomy.com, 8953515, RESELLER
 media.net, 8cusc3uj7, RESELLER
 nativo.com, 5958, RESELLER, 59521ca7cc5e9fee
+verve.com, 1008379, RESELLER, 0c8f5958fc2d6270
+e-planning.net, 79ded3cfca3d3b78, RESELLER, c1ba615865ed87b2
+lijit.com, 606973, RESELLER, fafdf38b16bf6b2b
+bigo.sg, adidz3dyfp, RESELLER
+media.net, 8CAXEGFDP, RESELLER
+media.net, 8CUUQ286L, RESELLER
+pubmatic.com, 168244, RESELLER, 5d62403b186f2ace
+bold-win.com, 1189, RESELLER, 71746737d0bab951
+themediagrid.com, JVHG38, RESELLER, 9fac4a4a87c2a44f
+triplelift.com, 14705-EB, RESELLER
 
 # Inmobi
 inmobi.com, 9ec15d0077144b1491d69de535750103, DIRECT, 83e75a7ae333ca9d
